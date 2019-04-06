@@ -1,9 +1,6 @@
 # SpringBoard
 
-IDE: Intellij Community Edition(2019.1)
-
-FrameWork: Springboot
-
-Build: Gradle
-
-DB: MongoDB
+![Image](https://img.shields.io/badge/Build-Gradle-brightgreen.svg)
+![Image](https://img.shields.io/badge/IDE-Intellij-brightgreen.svg)
+![Image](https://img.shields.io/badge/Framework-Springboot-brightgreen.svg)
+![Image](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg)
